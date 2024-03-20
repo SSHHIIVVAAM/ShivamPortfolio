@@ -4,6 +4,7 @@ import IMG1 from '../../assets/portfolio1.png'
 import IMG2 from '../../assets/portfolio2.png'
 import IMG3 from '../../assets/portfolio3.png'
 import IMG4 from '../../assets/portfolio4.png'
+import IMG5 from '../../assets/portfolio5.png'
 
 
 const data =[
@@ -34,6 +35,13 @@ const data =[
     title: 'Resturent Website',
     github: 'https://github.com/SSHHIIVVAAM/resturentWeb',
     demo: 'https://resturent-web-puce.vercel.app/'
+  },
+  {
+    id: 5,
+    image: IMG5,
+    title: 'Tour Management',
+    github: 'https://github.com/SSHHIIVVAAM/Tour_Management',
+    demo: 'https://tour-management-six.vercel.app/home'
   },
 ]
 
